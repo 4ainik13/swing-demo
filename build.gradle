@@ -12,7 +12,7 @@ buildscript {
     gradlePluginPortal()
   }
   dependencies {
-    classpath 'edu.sc.seis.launch4j:launch4j:3.0.5'
+    classpath 'edu.sc.seis.launch4j:launch4j:2.5.4'
   }
 }
 
