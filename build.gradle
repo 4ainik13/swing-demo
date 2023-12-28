@@ -21,7 +21,7 @@ apply plugin: 'java'
 apply plugin: 'edu.sc.seis.launch4j'
 
 launch4j {
-  mainClassName = 'SwingDem'
+  mainClassName = 'main.java.SwingDemo'
 }
 
 // In this section you declare where to find the dependencies of your project
